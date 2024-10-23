@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "515202589567",
+    "project_id": "supermercadosilva-18416",
+    "storage_bucket": "supermercadosilva-18416.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:515202589567:android:515f2f8c4ef2db2d8d704a",
+        "android_client_info": {
+          "package_name": "com.example.wey_commerce_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA33Xpt4PnB_dRs7xeKYZNsIgNFL8k66_8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

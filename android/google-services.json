@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "434099424161",
+    "project_id": "ecommerceapp-2dc5c",
+    "storage_bucket": "ecommerceapp-2dc5c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:434099424161:android:d884d90e1aa4d4abd119e0",
+        "android_client_info": {
+          "package_name": "com.example.kitanda_horti_fruti"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARHqanGagX4ESfi5Y2ZxBgSMx2KtlY6gY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "902588668582",
+    "project_id": "weycommerceapp",
+    "storage_bucket": "weycommerceapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:902588668582:android:e58866c4880be4ef8e7267",
+        "android_client_info": {
+          "package_name": "com.example.wey_commerce_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiSwXvYrxZ4hNZx_JLiLs5bsqKPC8CMMs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
